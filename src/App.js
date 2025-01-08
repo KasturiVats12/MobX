@@ -1,10 +1,10 @@
 import "./App.css";
-import Counter from "./component/Counter";
+import TaskManager from "./component/TaskManager";
 
 function App() {
   return (
       <div className="App">
-   <Counter/>
+      <TaskManager/>
       </div>
   );
 }
